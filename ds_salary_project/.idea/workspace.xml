@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d15d76d1-1531-4205-ab65-004fb3a38566" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datacleaning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datacleaning.py" beforeDir="false" afterPath="$PROJECT_DIR$/datacleaning.py" afterDir="false" />
-    </list>
+    <list default="true" id="d15d76d1-1531-4205-ab65-004fb3a38566" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +110,7 @@
       <workItem from="1687173952268" duration="12091000" />
       <workItem from="1687193617433" duration="20069000" />
       <workItem from="1687254974738" duration="1493000" />
-      <workItem from="1687258763235" duration="2257000" />
+      <workItem from="1687258763235" duration="2639000" />
     </task>
     <servers />
   </component>
