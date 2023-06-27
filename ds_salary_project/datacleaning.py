@@ -1,6 +1,5 @@
 import pandas as pd
-<<<<<<< HEAD
-=======
+
 import numpy as np
 import re
 
@@ -73,4 +72,4 @@ df['Type of ownership']=df['Type of ownership'].apply(extract_company)
 df_out = df.drop(['Unnamed: 0','Headquarters','Competitors'], axis =1)
 
 df_out.to_csv('data_cleaned.csv',index=False)
->>>>>>> datacleaning
+
